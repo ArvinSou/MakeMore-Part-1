@@ -6,7 +6,7 @@ Implementation and experiments following Andrej Karpathy's excellent "Makemore" 
 
 These are my personal notes, insights, and explanations from building the models step-by-step.
 
-## Part 1: Bigram Model
+## Bigram Model
 
 ### In W(27, 27)
 
